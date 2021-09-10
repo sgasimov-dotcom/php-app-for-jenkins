@@ -26,6 +26,7 @@ else
         <h1><font color=red>Congratulations <br><font color=gold>Sahib Gasimov!!!</font></h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
+	<img src="image1.jpg">
     </section>
 
     <section class="instructions">
